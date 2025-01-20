@@ -31,7 +31,7 @@ This project is under the MIT license. See [LICENSE](LICENSE) for details.
 ## Citation
 
 ```
-@InProceedings{zhang2025countering,
+@inproceedings{zhang2025countering,
   title = 	 {Countering Relearning with Perception Revising Unlearning},
   author =       {Zhang, Chenhao and Chen, Weitong and Zhang, Wei Emma and Xu, Miao},
   booktitle = 	 {Proceedings of the 16th Asian Conference on Machine Learning},
